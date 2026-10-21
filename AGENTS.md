@@ -5,7 +5,9 @@ This repository holds CGI by Sam demo websites, one self-contained static site p
 Canonical reusable standards:
 - repository: `SamGhaddar/agency-os`
 - branch: `main`
-- local checkout: `~/Desktop/CGI` (read the rulebook from here; do not fetch it from GitHub)
+- local checkout: `~/Desktop/CGI` (read the rulebook from here first)
+- fallback if that folder is missing: GitHub (private, needs access) https://github.com/SamGhaddar/agency-os
+- what the agency is about: `01-COMPANY/AGENCY-OVERVIEW.md`
 - start: `AI-ENTRYPOINT.md`
 - primary profile: `03-PROJECT-PROFILES/WEBSITE.md`
 - stack: `02-RULES-AND-STANDARDS/HOUSE-WEB-STACK.md` (no build step; house motion module first, vendored GSAP + Lenis only when needed)
