@@ -3,7 +3,7 @@
 This repository holds CGI by Sam demo websites, one self-contained static site per folder (`patty/`), plus brand tokens in `tokens/`.
 
 Canonical reusable standards:
-- repository: `cgibysam/agency-os`
+- repository: `SamGhaddar/agency-os`
 - branch: `main`
 - local checkout: `~/Desktop/CGI` (read the rulebook from here; do not fetch it from GitHub)
 - start: `AI-ENTRYPOINT.md`
