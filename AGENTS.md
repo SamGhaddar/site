@@ -1,6 +1,6 @@
 # Project AI Instructions
 
-This repository holds CGI by Sam demo websites, one self-contained static site per folder (`patty/`, `inerg/`), plus brand tokens in `tokens/`.
+This repository holds CGI by Sam demo websites, one self-contained static site per folder (`patty/`), plus brand tokens in `tokens/`.
 
 Canonical reusable standards:
 - repository: `cgibysam/agency-os`

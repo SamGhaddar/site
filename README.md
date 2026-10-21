@@ -6,7 +6,6 @@ that runs on its own; the pipeline in `scripts/` and `.github/` is shared.
 | Folder | Site |
 | --- | --- |
 | `patty/` | Patty, premium smash burgers |
-| `inerg/` | INER-G, lubricants from Lebanon (light and dark themes) |
 
 Run everything locally from the repo root and open the folder you want:
 
@@ -14,7 +13,7 @@ Run everything locally from the repo root and open the folder you want:
 python3 -m http.server 8000
 ```
 
-http://localhost:8000/ lists the sites; http://localhost:8000/patty/ and http://localhost:8000/inerg/ open them.
+http://localhost:8000/ lists the sites; http://localhost:8000/patty/ opens the demo.
 
 To add a site: create a folder with `index.html`, `css/`, `js/` and `assets/manifest.json`,
 push, and the workflow fetches and optimizes the assets listed in the manifest into that folder.

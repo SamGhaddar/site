@@ -7,4 +7,3 @@ Rule source: Agency OS `02-RULES-AND-STANDARDS/HOUSE-WEB-STACK.md` (local checko
 | File | Site |
 | --- | --- |
 | `patty.json` | `patty/` — dark only |
-| `inerg.json` | `inerg/` — light and dark themes |
